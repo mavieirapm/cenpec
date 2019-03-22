@@ -1,3 +1,8 @@
+body {
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
 html,
 body,
 .tcontainer {
@@ -211,6 +216,32 @@ body,
 
 
 
+.principios {
+    padding: 60px 200px 0 200px;
+    float: left;
+}
+
+.principios img {
+    padding: 12px;
+    display: inline-block;
+    max-width: 30%;
+    float: left;
+}
+
+.principios p {
+    font-size: 22px;
+    font-weight: 400;
+    padding-top: 60px;
+}
+
+
+
+
+
+
+
+
+
 .pcontainer {
     display: flex;
     justify-content: space-evenly;
@@ -263,6 +294,8 @@ body,
     font-size: 14px;
     line-height: 12px;
     height: 20%;
+    font-weight: 400;
+    text-align: center;
 }
 
 .pcontainer .pbox a {
