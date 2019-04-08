@@ -245,7 +245,7 @@ body,
     margin-bottom: 22vh;
 }
 
-.pcontainer .pbox {
+.pcontainer.pbox {
     width: 300px;
     height: 180px;
     border-radius: 10px;
