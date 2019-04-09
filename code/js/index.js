@@ -1,12 +1,3 @@
- // <![CDATA[
-    $(document).ready(function() {
-        $(".conteudobloco2").hide();
-        $(".tit_bloco2").click(function() {
-            $(this).next(".conteudobloco2").slideToggle(200);
-            $(this).siblings().next(".conteudobloco2").slideUp(200);
-        });
-    });
-    // ]]>
 
 
 var timelineSwiper = new Swiper('.timeline .swiper-container', {
