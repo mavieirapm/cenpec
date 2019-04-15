@@ -252,6 +252,7 @@ body,
     background-color: white;
     transition: .3s all ease-in-out;
     position: relative;
+    box-shadow: 2px 2px 6px background;
 
     
     /* Link */
