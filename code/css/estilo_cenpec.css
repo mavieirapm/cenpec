@@ -230,7 +230,8 @@ body,
 .principios p {
     font-size: 22px;
     font-weight: 400;
-    padding-top: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 
