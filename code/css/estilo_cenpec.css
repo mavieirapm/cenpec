@@ -373,6 +373,9 @@ section.module.parallax-2 p {
 
 section.module.parallax-3 {
     background-image: url("../../imagens/q_parallax3.jpg");
+    padding: 60px 200px 0px 200px;
+    margin-top: 80px;
+    font-weight: 600;
 }
 
 section.module.parallax-3 h1 {
