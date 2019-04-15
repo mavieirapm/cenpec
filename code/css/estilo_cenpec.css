@@ -236,7 +236,7 @@ body,
 
 
 
-.pcontainer {
+.pcont {
     display: flex;
     justify-content: space-evenly;
     align-items: center;
@@ -245,7 +245,7 @@ body,
     margin-bottom: 22vh;
 }
 
-.pcontainer .pbox {
+.pcont .pbox {
     width: 300px;
     height: 180px;
     border-radius: 10px;
@@ -258,14 +258,14 @@ body,
 }
 
 
-.pcontainer .pbox .pboxContent {
+.pcont .pbox .pboxContent {
     display: flex;
     flex-direction: column;
     justify-content: center;
     padding: 6px;
 }
 
-.pcontainer .pbox .pboxContent .icon {
+.pcont .pbox .pboxContent .icon {
     color: #a4cc00;
     font-size: 36px;
     padding: 6px;
@@ -275,7 +275,7 @@ body,
 
 }
 
-.pcontainer .pbox .pboxContent .title {
+.pcont .pbox .pboxContent .title {
     font-size: 20px;
     color: #a4cc00;
     font-weight: bold;
@@ -283,7 +283,7 @@ body,
 
 }
 
-.pcontainer .pbox .pboxContent .desc {
+.pcont .pbox .pboxContent .desc {
     color: #000;
     font-size: 14px;
     line-height: 12px;
@@ -292,7 +292,7 @@ body,
     text-align: center;
 }
 
-.pcontainer .pbox a {
+.pcont .pbox a {
     position: absolute;
     width: 100%;
     height: 100%;
@@ -300,18 +300,18 @@ body,
     left: 0;
 }
 
-.pcontainer .pbox:hover {
+.pcont .pbox:hover {
     background: linear-gradient(130deg, #a4cc00 0%, #a4cc00 100%);
     box-shadow: none;
 }
 
-.pcontainer .pbox:hover .icon,
-.pcontainer .pbox:hover .title {
+.pcont .pbox:hover .icon,
+.pcont .pbox:hover .title {
     color: white;
     transition: .3s all ease-in-out;
 }
 
-.pcontainer .pbox:hover .desc {
+.pcont .pbox:hover .desc {
     color: black;
     transition: .3s all ease-in-out;
 }
