@@ -426,7 +426,7 @@ section.module.parallax-3 p {
     position: absolute;
     transform: translate(0%, 250px);
     box-shadow: 2px 2px 6px background;
-    border-radius: 20px;
+    border-radius: 20px; 
 }
 
 
