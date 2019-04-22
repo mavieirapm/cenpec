@@ -595,6 +595,66 @@ section.module.parallax-3 p {
 
 
 
+.tabs{
+  width:100%;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-align-items: center;
+  align-items: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+}
+
+.tabs. tablink {
+  background-color: #fff;
+  color: white; 
+  float:left; 
+  border-style: solid;
+  border-color: #a4cc00;
+  cursor: pointer;
+  padding: 10px 16px;
+  font-size: 17px;
+  width: 12%;
+
+}
+
+.tablink:hover {
+  background-color: #777;
+}
+
+/* Style the tab content */
+.tabcontent {
+  color: 000;
+  display: none;
+  padding: 50px;
+  text-align: center;
+  border-style: solid;
+  border-color: #a4cc00;
+  border-radius: 12px;
+  background-color: #cccccc;
+}
+
+#2008 {background-color:#888888;}
+#2009 {background-color:#888888;}
+#2010 {background-color:#888888;}
+#2011 {background-color:#888888;}
+#2012 {background-color:#888888;}
+#2013 {background-color:#888888;}
+#2014 {background-color:#888888;}
+#2015 {background-color:#888888;}
+#2016 {background-color:#888888;}
+#2017 {background-color:#888888;}
+
+
+
+
+
+
+
+
+
+
+
 
 
 
