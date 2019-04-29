@@ -1,0 +1,7 @@
+.imgOpa { 
+ opacity: 0.3;
+  transition: opacity .5s
+}
+.imgOpa:hover {
+  opacity: 1;
+}
