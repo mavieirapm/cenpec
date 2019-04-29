@@ -1,6 +1,7 @@
 .imgOpa { 
  opacity: 0.3;
-  transition: opacity .5s
+ transition: opacity .5s;
+ background-color:#ff0000;
 }
 .imgOpa:hover {
   opacity: 1;
