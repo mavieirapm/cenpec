@@ -397,7 +397,7 @@ font-size:4vw;
     position: absolute;
     /* not relative anymore */
     /* z-index:5; It's already stacked above if positioned. Needed if other positioned elements are there (a value of 1 would be enough) */
-    transform: translate(10%, -20px);
+    transform: translate(1%, -20px);
     /* replaces relative positioning (left and top => X and Y) */
 }
 
