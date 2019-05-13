@@ -407,8 +407,8 @@ font-size:4vw;
     text-align: center;
     /* top:30px; */
     /* left: -10px; */
-    width: 75%;
-    height: 360px;
+    height: 100%;
+    width: 100%;
     position: absolute;
     /* not relative anymore */
     /* z-index:5; It's already stacked above if positioned. Needed if other positioned elements are there (a value of 1 would be enough) */
