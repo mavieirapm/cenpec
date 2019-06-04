@@ -3074,7 +3074,7 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/circles2_atlas_.jpg", id:"circles2_atlas_"}
+		{src:"https://www.cenpec.org.br/wp-content/uploads/2019/06/circles2_atlas_.jpg", id:"circles2_atlas_"}
 	],
 	preloads: []
 };
