@@ -2022,7 +2022,7 @@ p.nominalBounds = new cjs.Rectangle(-78.7,-78.7,157.4,157.4);
 		/*
 		Carrega o URL em uma nova janela do navegador.
 		*/
-		window.open('#pacto');
+		window.open('#pacto', '_self');
 		});
 	}
 	this.frame_119 = function() {
