@@ -2841,7 +2841,7 @@ lib.properties = {
 	color: "#000000",
 	opacity: 0.00,
 	manifest: [
-		{src:"https://www.cenpec.org.br/wp-content/uploads/2019/06/galaxia_atlas_.jpg", id:"galaxia_atlas_"}
+		{src:"https://www.cenpec.org.br/wp-content/uploads/2019/06/galaxia_atlas_-1.png", id:"galaxia_atlas_"}
 	],
 	preloads: []
 };
