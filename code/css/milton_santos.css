@@ -1,8 +1,8 @@
 .circle {
   padding: 13px 20px;
   border-radius: 50%;
-  background-color: #ED8D8D;
-  color: #fff;
+  background-color: #444444;
+  color: #ffd200;
   max-height: 50px;
   z-index: 2;
 }
