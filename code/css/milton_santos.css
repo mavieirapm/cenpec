@@ -13,7 +13,7 @@
 .how-it-works.row .col-2::after {
   content: "";
   position: absolute;
-  border-left: 3px solid #ffd200;
+  border-left: 3px dashed #ffd200;
   z-index: 1;
 }
 .how-it-works.row .col-2.bottom::after {
@@ -37,7 +37,7 @@
   height: 40px;
 }
 .timeline hr {
-  border-top: 3px solid #ffd200;
+  border-top: 3px dashed #ffd200;
   margin: 0;
   top: 17px;
   position: relative;
@@ -47,7 +47,7 @@
   overflow: hidden;
 }
 .timeline .corner {
-  border: 3px solid #ffd200;
+  border: 3px dashed #ffd200;
   width: 100%;
   position: relative;
   border-radius: 15px;
