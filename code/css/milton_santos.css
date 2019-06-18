@@ -28,6 +28,7 @@ Main Components
   color: #fff;
   background-color: #444444;
   padding: 60px 0px;
+  z-index:2;
 }
 .cd-horizontal-timeline::before {
   /* never visible - this is used in jQuery to check the current MQ */
