@@ -254,11 +254,11 @@ box-shadow: 7px 7px 10px -6px rgba(0,0,0,0.69);
     left:0
 }
 .timeline-nav-button--prev:before{
-    background-image:url(../images/arrow-left.svg)
+    background-image:url(https://mavieirapm.github.io/cenpec/imagens/arrow-left.svg)
 }
 .timeline-nav-button--next{
     right:0}.timeline-nav-button--next:before{
-        background-image:url(../images/arrow-right.svg)
+        background-image:url(https://mavieirapm.github.io/cenpec/imagens/arrow-right.svg)
 }
 .timeline--mobile{
     padding:0
