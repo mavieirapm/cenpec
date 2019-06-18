@@ -4,16 +4,8 @@
   box-sizing: border-box;
 }
 
-html {
-  font-size: 62.5%;
-}
 
-.timeline {
-  font-size: 1em;
-  font-family: "Ubuntu", sans-serif;
-  color: #fff;
-  background-color: #444444;
-}
+
 
 a {
   color: #fff;
@@ -31,6 +23,12 @@ Main Components
   -webkit-transition: opacity 0.2s;
   -moz-transition: opacity 0.2s;
   transition: opacity 0.2s;
+  font-size: 62.5%;
+  font-size: 1em;
+  font-family: "Ubuntu", sans-serif;
+  color: #fff;
+  background-color: #444444;
+  padding: 60px 0px;
 }
 .cd-horizontal-timeline::before {
   /* never visible - this is used in jQuery to check the current MQ */
@@ -111,7 +109,7 @@ Main Components
   bottom: 0;
   z-index: 2;
   text-align: center;
-  font-size: 1.3rem;
+  font-size: 1rem;
   padding-bottom: 15px;
   color: #383838;
   /* fix bug on Safari - text flickering while timeline translates */
@@ -307,35 +305,18 @@ Main Components
 }
 .cd-horizontal-timeline .events-content h3 {
   font-weight: bold;
-  font-size: 3em !important;
+  font-size: 2em !important;
   font-weight: 700;
   line-height: 1.2;
 }
-.cd-horizontal-timeline .events-content em {
-  display: block;
-  font-style: italic;
-  margin: 10px auto;
-}
-.cd-horizontal-timeline .events-content em::before {
-  content: '- ';
-}
-.cd-horizontal-timeline .events-content p {
-  font-size: 1.5em !important;
-  color: #fff;
-}
-.cd-horizontal-timeline .events-content em, .cd-horizontal-timeline .events-content p {
-  line-height: 1.6;
-}
+
+
+
 @media only screen and (min-width: 768px) {
   .cd-horizontal-timeline .events-content h2 {
     font-size: 7rem;
   }
-  .cd-horizontal-timeline .events-content em {
-    font-size: 1.5em !important;
-  }
-  .cd-horizontal-timeline .events-content p {
-    font-size: 1.8rem;
-  }
+
 }
 
 @-webkit-keyframes cd-enter-right {
