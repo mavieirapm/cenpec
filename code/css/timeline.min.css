@@ -69,3 +69,9 @@ div#slider figure {
   text-align:left;
   }
   
+  #destaque {
+    width:100%;
+    padding:5px;
+    margin:0 auto;
+  }
+  
