@@ -60,4 +60,13 @@ div#slider figure {
     padding-left: 0px;
   }
   
+  #citacao{
+  position: relative; 
+  font-size: 1em;  
+  line-height: 1em; 
+  padding: 0.3em;  
+  width:100%;
+  vertical-align:middle;
+  text-align:left;
+  }
   
