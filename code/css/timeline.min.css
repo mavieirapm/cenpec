@@ -62,8 +62,8 @@ div#slider figure {
     font-size: 1.4em; 
   }
   
-  #citacao {
-  font-size: 12px;   
+  .citacao {
+  font-size: 11px;   
   width:100%;
   vertical-align:middle;
   text-align:left;
