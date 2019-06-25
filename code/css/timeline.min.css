@@ -1,11 +1,6 @@
-body{
-margin: 0 auto;
-}
-
-
 * {box-sizing: border-box}
 .mySlides {display: none}
-img {vertical-align: middle;}
+
 
 /* Slideshow container */
 .slideshow-container {
@@ -13,6 +8,11 @@ img {vertical-align: middle;}
   position: relative;
   margin: auto;
 }
+
+.slideshow-container img {
+  vertical-align: middle;
+}
+
 
 /* Next & previous buttons */
 .prev, .next {
