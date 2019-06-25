@@ -21,16 +21,8 @@ div#slider figure {
   left: 0;
   text-align: left;
   font-size: 0;
-  animation: 45s slidy infinite; 
+  animation: 60s slidy infinite; 
 }
 
 
 
-        
-        .button-holder
-        {
-            position: relative;
-            top: -20px;
-        }
-        
- 
