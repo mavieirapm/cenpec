@@ -61,11 +61,8 @@ div#slider figure {
     font-size: 1.2em; 
   }
   
-  #citacao{
-  position: relative; 
-  font-size: 1em;  
-  line-height: 1em; 
-  padding: 0.3em;  
+  #citacao {
+  font-size: 12px;   
   width:100%;
   vertical-align:middle;
   text-align:left;
