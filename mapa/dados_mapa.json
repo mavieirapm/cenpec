@@ -1,0 +1,86 @@
+[
+ {
+   "id": "365831",
+   "aluno": "Maria Lohanna Daniel Da Silva",
+   "professor": "Maria Geane Aguiar Dos Santos Fernandes",
+   "municipio": "Feijó",
+   "uf": "AC",
+   "escola": "EEF JOSE GURGEL RABELO",
+   "trecho": "Ao longo da história do Brasil, o contato dos indígenas com o homem branco foi desastroso, pois etnias inteiras foram dizimadas, vítimas de infecções por doenças desconhecidas ou pelo extermínio deliberado.",
+   "Latitude": "-8.170978",
+   "Longitude": "-70.366799",
+   "icon": "menino1.png"
+ },
+ {
+   "id": "341764",
+   "aluno": "Sarah Evellyn Oliveira Borges",
+   "professor": "Márcia Rosana De Meneses",
+   "municipio": "Rio Branco",
+   "uf": "AC",
+   "escola": "EEF JOSE RODRIGUES LEITE",
+   "trecho": "A problemática, portanto, surge no tocante à mobilidade urbana e degradação do meio ambiente; esses grandes desafios das cidades contemporâneas chegam a Rio Branco sem aviso prévio. Estaria o Acre preparado para conciliar o crescimento repentino sem afetar a locomoção popular?",
+   "Latitude": "-9.9863232",
+   "Longitude": "-67.9011373",
+   "icon": "menino2.png"
+ },
+ {
+   "id": "340942",
+   "aluno": "Isabele Tenório Santos",
+   "professor": "Camilla Da Silva Cruz",
+   "municipio": "São Miguel dos Campos",
+   "uf": "AL",
+   "escola": "ESCOLA ESTADUAL ANA LINS",
+   "trecho": "Porém nas últimas semanas do mês de ano, os moradores do bairro Humberto Alves, localizado próximo ao rio que dá nome à cidade, recebeu a notícia de que o espaço utilizado para a prática de esportes como o tradicional futebol, seria demolido para a construção de casas. A notícia provocou inquietação entre os moradores e conseguiu dividir as opiniões, não só dos frequentadores do campo de futebol, como também da comunidade em geral.",
+   "Latitude": "-9.7908549",
+   "Longitude": "-36.1225153",
+   "icon": "menino2.png"
+ },
+ {
+   "id": "382894",
+   "aluno": "Lucas Da Silva Farias",
+   "professor": "Maria Dos Santos França",
+   "municipio": "Taquarana",
+   "uf": "AL",
+   "escola": "ESCOLA ESTADUAL SANTOS FERRAZ",
+   "trecho": "Ativistas já alegaram a inconstitucionalidade da lei, vendo-a como censura no ambiente escolar. A lei fere os direitos humanos e a constituição brasileira. Tira do professor a liberdade de expressão de manifestar, livremente, opiniões, ideias e pensamentos sem medo de retaliação ou censura por parte do governo.",
+   "Latitude": "-9.6457166",
+   "Longitude": "-36.5019291",
+   "icon": "menino2.png"
+ },
+ {
+   "id": "366273",
+   "aluno": "Natália Samara Nobre",
+   "professor": "Sandra Araujo Lima Cavalcanti",
+   "municipio": "Arapiraca",
+   "uf": "AL",
+   "escola": "INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOLOGIA DE ALAGOAS CAMPUS ARAPIRACA",
+   "trecho": "A prática da Lei Escola Livre impulsionará uma restrição no aprendizado que é bastante preocupante, dado que Arapiraca apresenta péssimos indicadores sociais, segundo o IBGE, e a escola é o ambiente mais adequado para a promoção de mudanças na realidade local.",
+   "Latitude": "-9.7971182",
+   "Longitude": "-36.684665",
+   "icon": "menina1.png"
+ },
+ {
+   "id": "381936",
+   "aluno": "Vicnícius Rudney Ancelmo Da Silva",
+   "professor": "Joseth Silva",
+   "municipio": "Porto de Pedras",
+   "uf": "AL",
+   "escola": "ESCOLA ESTADUAL CIRIDIÃO DURVAL",
+   "trecho": "Se já não fosse suficiente o problema do sujeito, a cidade esbarra em uma nova discussão \"a quem pertence a praia do Patacho\"? Em 2014 um empresário do ramo hoteleiro decidiu fechar a única via paralela de acesso à praia para ampliar o terreno de sua pousada.",
+   "Latitude": "-9.160489",
+   "Longitude": "-35.3139879",
+   "icon": "menina1.png"
+ },
+ {
+   "id": "377601",
+   "aluno": "Thiago Aparecido Da Silva",
+   "professor": "Mariza De Jesus Ferreira",
+   "municipio": "Lavandeira",
+   "uf": "TO",
+   "escola": "COLEGIO ESTADUAL LAVANDEIRA",
+   "trecho": "Já é bastante visível o quanto a natureza na nossa região esta degradada, vários fatos contribuem para tamanha situação, falta de chuvas, queimadas, pecuária extensiva e desmatamento desmedido. E em Lavandeira essa situação é explicita no Rio Palma, que ao longo dos anos sofreu uma ampla devastação preocupando os moradores da cidade.",
+   "Latitude": "-12.8232708",
+   "Longitude": "-46.5100615",
+   "icon": "menino1.png"
+ }
+]
